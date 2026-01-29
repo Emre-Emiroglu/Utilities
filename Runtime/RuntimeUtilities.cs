@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HMUtilities.Runtime
+namespace Utilities.Runtime
 {
     /// <summary>
     /// Provides various runtime utility methods for game logic.

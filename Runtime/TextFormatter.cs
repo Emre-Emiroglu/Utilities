@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HMUtilities.Runtime
+namespace Utilities.Runtime
 {
     /// <summary>
     /// Provides utility methods for formatting numbers and time durations.

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMUtilities.Runtime
+namespace Utilities.Runtime
 {
     /// <summary>
     /// Extension methods for transforming the position and rotation of a Transform.

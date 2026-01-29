@@ -1,10 +1,10 @@
 ﻿using System.Collections;
-using HMUtilities.Runtime;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
+using Utilities.Runtime;
 
-namespace HMUtilities.Tests.PlayMode
+namespace Utilities.Tests.PlayMode.Tests
 {
     public sealed class UtilitiesPlayModeTests
     {

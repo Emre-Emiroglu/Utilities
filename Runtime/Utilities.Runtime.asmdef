@@ -1,12 +1,8 @@
 {
-    "name": "HMUtilities.Editor",
-    "rootNamespace": "HMUtilities.Editor",
-    "references": [
-        "GUID:041b19db3e061a8428b32b4169b71274"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "Utilities.Runtime",
+    "rootNamespace": "Utilities.Runtime",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

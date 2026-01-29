@@ -1,4 +1,4 @@
-﻿## [1.0.0] - 2025-07-07
+﻿## [1.0.0] - 2026-01-29
 
 ### Added
 - TextFormatter utility for formatting numbers and time durations.

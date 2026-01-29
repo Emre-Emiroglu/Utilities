@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMUtilities.Runtime
+namespace Utilities.Runtime
 {
     /// <summary>
     /// Provides utility methods for timing and calculating durations.

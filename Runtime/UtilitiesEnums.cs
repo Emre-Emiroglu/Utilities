@@ -1,4 +1,4 @@
-﻿namespace HMUtilities.Runtime
+﻿namespace Utilities.Runtime
 {
     public enum TimeFormattingTypes
     {

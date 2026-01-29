@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using HMUtilities.Runtime;
 using NUnit.Framework;
+using Utilities.Runtime;
 
-namespace HMUtilities.Tests.EditMode
+namespace Utilities.Tests.EditMode.Tests
 {
     public sealed class UtilitiesEditModeTests
     {

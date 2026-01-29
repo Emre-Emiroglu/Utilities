@@ -1,10 +1,8 @@
-<img src="icon.jpg" width="512" height="512" alt="HMUtilities Logo">
-
-# HMUtilities
-HMUtilities is a utility package designed to streamline common tasks in Unity projects. It offers various helper functions for tasks like transforming objects, calculating time, animating canvas groups, sorting lists, and more. This package is aimed at making Unity development faster and easier by providing essential tools right out of the box.
+# Utilities
+Utilities is a utility package designed to streamline common tasks in Unity projects. It offers various helper functions for tasks like transforming objects, calculating time, animating canvas groups, sorting lists, and more. This package is aimed at making Unity development faster and easier by providing essential tools right out of the box.
 
 ## Features
-HMUtilities offers the following capabilities:
+Utilities offers the following capabilities:
 * Transform Extensions: Convenient methods to manipulate the position, rotation, and scale of GameObjects.
 * FPS Display: A simple FPS counter to monitor performance in the Unity editor.
 * Canvas Group Animation: Smoothly animate the alpha of a CanvasGroup over time.
@@ -15,13 +13,13 @@ HMUtilities offers the following capabilities:
 ## Getting Started
 Install via UPM with git URL
 
-`https://github.com/Emre-Emiroglu/HMUtilities.git`
+`https://github.com/Emre-Emiroglu/Utilities.git`
 
 Clone the repository
 ```bash
-git clone https://github.com/Emre-Emiroglu/HMUtilities.git
+git clone https://github.com/Emre-Emiroglu/Utilities.git
 ```
-This project is developed using Unity version 6000.0.42f1.
+This project is developed using Unity version 6000.2.6f2.
 
 ## Usage
 * Transform Extensions: You can use various extension methods to manipulate the position and rotation of a transform.

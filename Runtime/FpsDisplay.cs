@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMUtilities.Runtime
+namespace Utilities.Runtime
 {
     /// <summary>
     /// Displays the current frames per second (FPS) on the screen.

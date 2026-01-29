@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace HMUtilities.Editor
+namespace Utilities.Editor
 {
     /// <summary>
     /// A utility class that provides editor-related functionality.
